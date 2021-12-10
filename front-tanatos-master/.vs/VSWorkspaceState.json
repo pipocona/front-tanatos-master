@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\templates",
+    "\\src\\config",
+    "\\src\\guards",
+    "\\src\\plugins",
+    "\\src\\router",
+    "\\src\\services",
+    "\\src\\store",
+    "\\src\\views"
   ],
   "PreviewInSolutionExplorer": false
 }
